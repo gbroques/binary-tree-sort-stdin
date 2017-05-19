@@ -1,5 +1,5 @@
 # Sort Random Numbers from stdin Using a Binary Tree
-A simple C program to sorts random numbers from `stdin` using a binary tree.
+A simple C program that sorts random numbers from `stdin` using a binary tree.
 
 ## How to Run
 1. `make`
